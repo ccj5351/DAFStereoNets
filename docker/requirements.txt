@@ -1,0 +1,21 @@
+# These must be installed before building mmdetection
+#numpy
+# kornia
+opencv-contrib-python
+tqdm
+visdom 
+pandas
+scipy==1.2.0
+
+# the following is adapted from https://github.com/NVlabs/pacnet/blob/master/requirements.txt
+# Pixel Adaptive Convolution
+cython
+h5py
+#tqdm
+msgpack
+pillow
+imageio
+#numpy
+#scipy
+scikit-image
+gdown

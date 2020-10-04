@@ -1,0 +1,59 @@
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/15-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/15-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/30-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/30-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/clone/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/fog/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/morning/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/overcast/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/rain/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/sunset/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/15-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/15-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/30-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/30-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/clone/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/fog/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/morning/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/overcast/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/rain/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene02/sunset/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/15-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/15-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/30-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/30-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/clone/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/fog/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/morning/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/overcast/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/rain/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene06/sunset/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/15-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/15-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/30-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/30-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/clone/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/fog/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/morning/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/overcast/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/rain/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene18/sunset/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/15-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/15-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/30-deg-left/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/30-deg-right/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/clone/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/fog/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/morning/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/overcast/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/rain/frames/rgb/Camera_0
+Processing dir:  /media/ccjData2/datasets/Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene20/sunset/frames/rgb/Camera_0
+{'Scene01_15-deg-left': 447, 'Scene01_15-deg-right': 447, 'Scene01_30-deg-left': 447, 'Scene01_30-deg-right': 447, 'Scene01_clone': 447, 'Scene01_fog': 447, 'Scene01_morning': 447, 'Scene01_overcast': 447, 'Scene01_rain': 447, 'Scene01_sunset': 447, 'Scene01': 4470, 'Scene02_15-deg-left': 233, 'Scene02_15-deg-right': 233, 'Scene02_30-deg-left': 233, 'Scene02_30-deg-right': 233, 'Scene02_clone': 233, 'Scene02_fog': 233, 'Scene02_morning': 233, 'Scene02_overcast': 233, 'Scene02_rain': 233, 'Scene02_sunset': 233, 'Scene02': 2330, 'Scene06_15-deg-left': 270, 'Scene06_15-deg-right': 270, 'Scene06_30-deg-left': 270, 'Scene06_30-deg-right': 270, 'Scene06_clone': 270, 'Scene06_fog': 270, 'Scene06_morning': 270, 'Scene06_overcast': 270, 'Scene06_rain': 270, 'Scene06_sunset': 270, 'Scene06': 2700, 'Scene18_15-deg-left': 339, 'Scene18_15-deg-right': 339, 'Scene18_30-deg-left': 339, 'Scene18_30-deg-right': 339, 'Scene18_clone': 339, 'Scene18_fog': 339, 'Scene18_morning': 339, 'Scene18_overcast': 339, 'Scene18_rain': 339, 'Scene18_sunset': 339, 'Scene18': 3390, 'Scene20_15-deg-left': 837, 'Scene20_15-deg-right': 837, 'Scene20_30-deg-left': 837, 'Scene20_30-deg-right': 837, 'Scene20_clone': 837, 'Scene20_fog': 837, 'Scene20_morning': 837, 'Scene20_overcast': 837, 'Scene20_rain': 837, 'Scene20_sunset': 837, 'Scene20': 8370}
+*****************************
+Scene01 has 4470 images.
+Scene02 has 2330 images.
+Scene06 has 2700 images.
+Scene18 has 3390 images.
+Scene20 has 8370 images.
+*****************************
+Virtual KITTI 2 has 21260 images in total.

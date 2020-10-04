@@ -1,0 +1,14 @@
+#----------------------------------------------------------
+#Scene01/clone/frames/rgb/Camera_0/: has 447 images in total, and choose 384 images for training.
+#----------------------------------------------------------
+Scene01/clone/frames/rgb/Camera_0/rgb_00000.jpg
+#----------------------------------------------------------
+#Scene02/clone/frames/rgb/Camera_0/: has 233 images in total, and choose 200 images for training.
+#----------------------------------------------------------
+Scene02/clone/frames/rgb/Camera_0/rgb_00000.jpg
+Scene02/clone/frames/rgb/Camera_0/rgb_00001.jpg
+#----------------------------------------------------------
+#Scene18/clone/frames/rgb/Camera_0/: has 339 images in total, and choose 291 images for training.
+#----------------------------------------------------------
+Scene18/clone/frames/rgb/Camera_0/rgb_00000.jpg
+Scene18/clone/frames/rgb/Camera_0/rgb_00001.jpg
