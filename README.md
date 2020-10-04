@@ -19,9 +19,11 @@ Do End-to-end Stereo Algorithms Under-utilize Information?
 
 If you find the code useful, please cite our paper:
 
+```
 @inproceedings{Cai2020MS-Nets,
   title={ Do End-to-end Stereo Algorithms Under-utilize Information?},
 	author={Cai, Changjiang and Mordohai, Philippos},
 	booktitle={International Conference on 3D Vision (3DV)},
 	year={2020}
 }
+```
