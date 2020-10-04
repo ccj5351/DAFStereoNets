@@ -123,7 +123,7 @@ datasets
 checkpoints
 checkpoints_tuning
 logs
-*.png
+#*.png
 backup_log
 .*.swp
 
@@ -132,12 +132,8 @@ backup_log
 *.so
 *.a
 */bin/*
-papers/
 
 # add baselines
 src/baselines/GANet/illustration
 src/baselines/GANet/checkpoint
 src/baselines/GANet/logs
-#eval_disp.sh
-#docker/run.sh
-fig-plot
