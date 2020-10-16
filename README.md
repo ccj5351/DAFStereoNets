@@ -1,5 +1,5 @@
 # Deep Adaptive Filtering (DAF) Stereo Networks: DAF-StereoNets (Code Work in Progress!!!)
-Do End-to-end Stereo Algorithms Under-utilize Information? 
+[Do End-to-end Stereo Algorithms Under-utilize Information?](https://arxiv.org/abs/2010.07350) 
 
 <img align="center" src="files/network-architecture.png">
 
@@ -25,10 +25,12 @@ The following figure demonstrates the cost volume in 2D and 3D CNNs for stereo m
 ## Reference:
 If you find the code useful, please cite our paper:
 
-    @inproceedings{Cai2020-DAF-Nets,
-      title={Do End-to-end Stereo Algorithms Under-utilize Information?},
-      author={Cai, Changjiang and Mordohai, Philippos},
-      booktitle={International Conference on 3D Vision (3DV)},
-      year={2020}
-    }
+		@misc{cai2020deep_adaptive_stereo,
+			title={Do End-to-end Stereo Algorithms Under-utilize Information?}, 
+			author={Changjiang Cai and Philippos Mordohai},
+			year={2020},
+			eprint={2010.07350},
+			archivePrefix={arXiv},
+			primaryClass={cs.CV}
+		}
 
