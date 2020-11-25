@@ -5,7 +5,7 @@ This is a work by [Changjiang Cai](https://www.changjiangcai.com) and [Philippos
 See the links: [**arXiv**](https://arxiv.org/abs/2010.07350), [**Slides**](https://github.com/ccj5351/DAFStereoNets/blob/master/files/daf-stereo-10mins-final.pdf), [**Poster**](https://github.com/ccj5351/DAFStereoNets/blob/master/files/poster-daf.pdf), [**Conf-Proceeding**](https://github.com/ccj5351/DAFStereoNets/blob/master/files/daf-stereo-3dv-conf20-pub.pdf)
 
 <p align="center">
-<img src="files/network-architecture.png", alt="architecture" width="500">
+<img src="files/network-architecture.png", alt="architecture" width="600">
 </p>
 
 
@@ -15,7 +15,7 @@ Please check our presentation video as shown below:
 
 <p align="center">
   <a href="https://youtu.be/jarA_fj9z18">
-  <img src="files/daf-stereo-10-mins-video.png" alt="10 minute 3DV presentation video link" width="400">
+  <img src="files/daf-stereo-10-mins-video.png" alt="10 minute 3DV presentation video link" width="500">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ dimension FxDxHxW) based disparity regression.
 The following figure demonstrates the cost volume in 2D and 3D CNNs for stereo matching.
 
 <p align="center">
-<img src="files/2D-3D-deep-stereo-nets.png", alt="cost volume" width="500">
+<img src="files/2D-3D-deep-stereo-nets.png", alt="cost volume" width="600">
 </p>
 
 ## Building Requirements
