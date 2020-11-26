@@ -94,10 +94,25 @@ Assuming this repository is located at `~/DAFStereoNets` (definitely you can put
  - Coming soon ...
 
 ## Reference:
-If you find the code useful, please cite our paper:
+
+- If you find the code useful, please cite our paper:
+
+``` 
+@inproceedings{cai2020deep_adaptive_stereo,
+    title={Do End-to-end Stereo Algorithms Under-utilize Information?}, 
+	 author={Changjiang Cai and Philippos Mordohai},
+    booktitle={2020 International Conference on 3D Vision (3DV)}, 
+    year={2020},
+    pages={374-383},
+    doi={10.1109/3DV50981.2020.00047}
+  }
+```
+
+- Or the arXiv version.
+
 ```
 @misc{cai2020deep_adaptive_stereo,
-    title={Do End-to-end Stereo Algorithms Under-utilize Information?}, 
+   title={Do End-to-end Stereo Algorithms Under-utilize Information?}, 
 	author={Changjiang Cai and Philippos Mordohai},
 	year={2020},
 	eprint={2010.07350},
@@ -105,3 +120,8 @@ If you find the code useful, please cite our paper:
 	primaryClass={cs.CV}
 }
 ```
+
+
+## Contact
+
+Changjiang Cai, Email: changjiangcai2020 AT Gmail or hit my [homepage](https://www.changjiangcai.com/).
